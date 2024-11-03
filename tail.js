@@ -23,7 +23,6 @@ document.addEventListener('mousemove', (event) => {
               document.getElementById(`${y}`).style.left = `${mouses[zoro].gg}px`;
               document.getElementById(`${y}`).style.top = `${mouses[zoro].y}px`; 
               zoro += 3;
-              console.log('ex');
             
           }
       }
