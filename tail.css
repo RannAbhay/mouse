@@ -1,6 +1,7 @@
 div{
-    height: 9px;
-    width: 9px;
+    height: 13px;
+    width: 13px;
+    border-radius: 7px;
     position: absolute;
     background-color: red;
     transform: translate(-50%,-50%);
